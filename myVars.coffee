@@ -1,5 +1,5 @@
 #global variables
-exports.myVars =
+exports.v =
     sW: Screen.width
     sX: Screen.x
     sY: Screen.y
