@@ -1,7 +1,7 @@
 # myVars-module
 Just a bunch of commonly used variables, timings, and animation curves I use in my projects
 
-<a href='https://open.framermodules.com/myVars'>
+<a href='https://open.framermodules.com/myVars-module'>
     <img alt='Install with Framer Modules'
     src='https://www.framermodules.com/assets/badge@2x.png' width='160' height='40' />
 </a>
