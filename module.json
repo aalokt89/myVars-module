@@ -4,7 +4,7 @@
     "author": "Aalok Trivedi",
 
     "require": "myVars = require 'myVars'",
-    "install": "CommonVars.coffee",
+    "install": "myVars.coffee",
     "example": "example.coffee"
 
 }
