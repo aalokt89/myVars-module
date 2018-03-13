@@ -1,0 +1,10 @@
+{
+    "name": "myVars",
+    "description": "Just some common variables, timings and animation curves I use in most of my projects.",
+    "author": "Aalok Trivedi",
+
+    "require": "myVars = require 'myVars'",
+    "install": "CommonVars.coffee",
+    "example": "example.coffee"
+
+}
