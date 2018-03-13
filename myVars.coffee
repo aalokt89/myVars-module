@@ -1,5 +1,5 @@
 #global variables
-exports.c =
+c =
     sW: Screen.width
     sX: Screen.x
     sY: Screen.y
@@ -22,3 +22,5 @@ exports.c =
     fastOutLinearIn: "cubic-bezier(0.4, 0.0, 1, 1)"
     mSpring: "spring(260,30,0,0.01)"
     mTime: .3
+
+module.exports = myVars
