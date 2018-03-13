@@ -23,4 +23,4 @@ c =
     mSpring: "spring(260,30,0,0.01)"
     mTime: .3
 
-module.exports = myVars
+module.exports = c
