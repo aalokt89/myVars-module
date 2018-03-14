@@ -6,6 +6,19 @@ Just a bunch of commonly used variables, timings, and animation curves I use in 
     src='https://www.framermodules.com/assets/badge@2x.png' width='160' height='40' />
 </a>
 
+## Installation
+Use the Framer Modules app for easy installation or input  `{v} = require "myVars"`
+## Example
+```Coffeescript
+layer = new layer
+    width: v.sW - (v.gutter * 2)
+layer.animate
+    x: Align.center
+    options:
+        curve: v.fastOutSlowIn
+        time: v.mTime
+```
+
 ## Available Variables
 
 ### Basic Values
