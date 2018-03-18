@@ -1,6 +1,7 @@
 #global variables
 exports.v =
     sW: Screen.width
+    sH: Screen.height
     sX: Screen.x
     sY: Screen.y
     gutter: 16
